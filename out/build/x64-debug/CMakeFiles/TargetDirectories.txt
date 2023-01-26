@@ -1,0 +1,4 @@
+C:/Users/91931/OneDrive/Desktop/DesignPatterns/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/91931/OneDrive/Desktop/DesignPatterns/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/91931/OneDrive/Desktop/DesignPatterns/out/build/x64-debug/Design Patterns/CMakeFiles/edit_cache.dir
+C:/Users/91931/OneDrive/Desktop/DesignPatterns/out/build/x64-debug/Design Patterns/CMakeFiles/rebuild_cache.dir
